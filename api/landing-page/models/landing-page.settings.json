@@ -55,10 +55,10 @@
       "component": "page.section-agenda",
       "required": true
     },
-    "princingBox": {
+    "pricingBox": {
       "type": "component",
       "repeatable": false,
-      "component": "page.princing-box",
+      "component": "page.pricing-box",
       "required": true
     },
     "sectionAboutUs": {
